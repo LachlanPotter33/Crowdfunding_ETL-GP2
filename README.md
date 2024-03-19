@@ -22,4 +22,5 @@ Subcategory table:
 
 ## Group members: Kai Huang, Aryan Linga, Laura Liu, Lachlan Porter 
 
-## Resources
+## Resources 
+Xpert Learning Assistant - https://bootcampspot.instructure.com/courses/4781/external_tools/313
