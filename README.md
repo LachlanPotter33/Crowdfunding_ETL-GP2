@@ -1,15 +1,9 @@
 # Project-2
 
-Create the Category and Subcategory DataFrames - Lachlan
+Group members: Kai Huang, Aryan Linga, Laura Liu, Lachlan Porter 
 
-
-Create the Campaign DataFrame - Kai
-
-
-Create the Contacts DataFrame - Laura
-
-
-Create the Crowdfunding Database - Ayran
+Campaign table: 
+<image,title ='campaign data', src ='Crowdfunding_ETL-GP2/Starter_Files/Resources/campaign_without_data.png'>  
 
 
 ## Resources
