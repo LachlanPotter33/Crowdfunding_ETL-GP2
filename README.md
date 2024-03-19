@@ -1,6 +1,8 @@
 # Project-2
 
-Group members: Kai Huang, Aryan Linga, Laura Liu, Lachlan Porter 
+objective: Constructing an ETL pipeline using Python, Pandas, to extract and modify the data. Following data transformation,we have generated four CSV files and utilize the data from these files to establish an Entity-Relationship Diagram (ERD) and a table schema. Subsequently, imported the CSV file data into a Postgres database. 
+
+
 
 Campaign table: 
 <img width="1440" alt="campaign_without_data" src="https://github.com/LachlanPotter33/Crowdfunding_ETL-GP2/assets/93352471/073312b6-53c4-481b-bb63-2fabca3db7e5">
@@ -18,6 +20,6 @@ Subcategory table:
 <img width="1440" alt="subcategory_without_data" src="https://github.com/LachlanPotter33/Crowdfunding_ETL-GP2/assets/93352471/ef4f4607-ce6c-41bb-9420-6f1a9a0106d7">
 <img width="1440" alt="subcategory_data" src="https://github.com/LachlanPotter33/Crowdfunding_ETL-GP2/assets/93352471/e00c6a5b-1822-4b2b-bc42-0581b9417a6e">
 
-
+##Group members: Kai Huang, Aryan Linga, Laura Liu, Lachlan Porter 
 
 ## Resources
